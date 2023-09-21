@@ -1,9 +1,9 @@
 # Maintainer: Yunus Emre YOLDAŞ <yoldas.emre@anticverse.com>
-pkgname=tgbot-cpp-static
+pkgname=tgbot-cpp
 pkgver=99999
 pkgrel=0
 _commit=782596206764e663b9b45401b447871f21ce62b2
-pkgdesc="Static Telegram bot API in c++"
+pkgdesc="Telegram bot API in c++, dynamic linked"
 url="https://github.com/reo7sp/tgbot-cpp"
 arch="all"
 license="MIT"
@@ -25,5 +25,5 @@ package() {
 }
 
 sha512sums="
-ad79dd9d11186e60030534511eefddc5c00aa5f0c3d2fad2b0418c76e85627d3b288c400abfe0af3e60f8fb795d60aa57ace831133df7958fbfb6c5ce7ccb180  tgbot-cpp-static-99999.tar.gz
+ad79dd9d11186e60030534511eefddc5c00aa5f0c3d2fad2b0418c76e85627d3b288c400abfe0af3e60f8fb795d60aa57ace831133df7958fbfb6c5ce7ccb180  tgbot-cpp-99999.tar.gz
 "
